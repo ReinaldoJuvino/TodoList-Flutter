@@ -1,6 +1,6 @@
 # lista_de_atividades
 
-A new Flutter project.
+Projeto em flutter com armazenamento de dados em arquivos 
 
 ## Getting Started
 
